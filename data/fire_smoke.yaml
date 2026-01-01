@@ -1,0 +1,7 @@
+train: ../datasets/fire/train/images # train images (relative to 'path') 
+val: ../datasets/fire/val/images  # val images (relative to 'path') 
+
+# Classes
+nc: 2  # number of classes
+names: ['fire','smoke']  # class names
+
